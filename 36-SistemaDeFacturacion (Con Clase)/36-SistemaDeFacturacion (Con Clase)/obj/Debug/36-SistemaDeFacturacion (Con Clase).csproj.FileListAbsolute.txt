@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\36-SistemaDeFacturacion (Con Clase)\36-SistemaDeFacturacion (Con Clase)\bin\Debug\36-SistemaDeFacturacion (Con Clase).exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\36-SistemaDeFacturacion (Con Clase)\36-SistemaDeFacturacion (Con Clase)\bin\Debug\36-SistemaDeFacturacion (Con Clase).pdb
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\36-SistemaDeFacturacion (Con Clase)\36-SistemaDeFacturacion (Con Clase)\obj\Debug\36-SistemaDeFacturacion (Con Clase).csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\36-SistemaDeFacturacion (Con Clase)\36-SistemaDeFacturacion (Con Clase)\obj\Debug\36-SistemaDeFacturacion (Con Clase).csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\36-SistemaDeFacturacion (Con Clase)\36-SistemaDeFacturacion (Con Clase)\obj\Debug\36-SistemaDeFacturacion (Con Clase).exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\36-SistemaDeFacturacion (Con Clase)\36-SistemaDeFacturacion (Con Clase)\obj\Debug\36-SistemaDeFacturacion (Con Clase).pdb
